@@ -1,0 +1,2 @@
+# TSI-keyboard-extension
+Purpose of TSI-keyboard extension is to generate virtual keyboard presses by converting fNIRS data, analyzed by Turbo Satori (TSI), to self-chosen commands. This program is able to generate virtual keypresses without you touching  the keyboard. It uses the fNIRS data from TSI an when the BOLD signal reaches a certain threshold value, a output is given consisting of a keypress. Its main interface consists of a Tkinter window with multiple buttons,  more information in GENERAL USAGE NOTES.
